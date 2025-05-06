@@ -1,0 +1,9 @@
+name: <%= component_name %>
+props:
+  type: object
+  properties:
+    class:
+      type: string
+      title: <%= component_name %> Parent Classname
+      description: Parent component class
+      required: false

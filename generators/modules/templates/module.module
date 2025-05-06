@@ -1,0 +1,19 @@
+<?php
+
+/**
+ * @file
+ * Contains my_custom_blocks.module.
+ */
+
+function <%= module_name %>_theme(): array {
+  return [
+    '<%= module_name %>' => [
+      'template' => '<%= module_name %>',
+      'variables' => [
+        'message' => '',
+      ],
+    ],
+  ];
+}
+
+?>

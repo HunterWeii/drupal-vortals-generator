@@ -1,0 +1,5 @@
+name: <%= module_name %>
+description: "A simple <%= module_name %> module."
+package: Custom
+type: module
+core_version_requirement: ^10 || ^11
