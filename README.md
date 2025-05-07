@@ -13,7 +13,7 @@ Before using this generator, you will need `Yeoman` installed inside your local 
 1. Download this repo into your local machine.
 2. Run `npm install` to install the `yeoman-generator` package.
 3. After that, run `npm link` to link the package.
-4. Run `yo --generator` in your command line and you should see the generate name (`drupal-vortals-cms`) with their submodules name (`components` and `modules`).
+4. Run `yo --generators` in your command line and you should see the generate name (`drupal-vortals-cms`) with their submodules name (`components` and `modules`).
 
 ## How to Use the Generator ?
 
